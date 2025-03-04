@@ -12,7 +12,5 @@ This project automates the extraction of live cricket commentary and analyzes it
 ## 🛠️ Technologies Used  
 - **Python**  
 - **Selenium** – For web scraping live commentary  
-- **BeautifulSoup** – For parsing HTML data  
 - **Regular Expressions (Regex)** – For text processing and scoreboard extraction  
 
-## 📂 Project Structure  
